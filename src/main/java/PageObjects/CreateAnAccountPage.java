@@ -27,4 +27,5 @@ public class CreateAnAccountPage {
 	}
 
 }
-
+ public void add name(){
+};

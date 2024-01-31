@@ -26,8 +26,5 @@ public class CreateAnAccountPage {
 		DriverFactory.getInstance().getDriver().findElement(registerBtn).click();
 	}
 	
-	public void add() {
-		System.out.println("ok");
-	}
 
 }

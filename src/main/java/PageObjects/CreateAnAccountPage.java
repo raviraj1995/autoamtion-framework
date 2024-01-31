@@ -26,5 +26,8 @@ public class CreateAnAccountPage {
 		DriverFactory.getInstance().getDriver().findElement(registerBtn).click();
 	}
 	
+	public void name() {
+		System.out.println("anagha bhalchandra potharkar");
+	}
 
 }

@@ -19,5 +19,9 @@ public class HomePage {
 	public void clickOnMyAccountLink() {
 		DriverFactory.getInstance().getDriver().findElement(myAccountLink).click();
 	}
+	
+	public void clickOnForgotPassword() {
+		
+	}
 
 }

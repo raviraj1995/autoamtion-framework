@@ -12,5 +12,9 @@ public class CustomerLoginPage {
 	public void clickOnCreateAnAccountLink() {
 		DriverFactory.getInstance().getDriver().findElement(createAnAccountLink).click();
 	}
+	
+	public void login() {
+		
+	}
 
 }
